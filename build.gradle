@@ -183,6 +183,7 @@ dependencies {
 
 // Example for how to get properties into the manifest for reading at runtime.
 jar {
+    destinationDir = file("C:/Users/garre/OneDrive - Arizona State University/Documents/Game Files/Minecraft Files/MultiMC/instances/Egg String/.minecraft/mods")
     manifest {
         attributes([
                 "Specification-Title": "eggstring",

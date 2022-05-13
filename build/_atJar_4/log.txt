@@ -1,0 +1,7 @@
+Java Launcher: C:\Users\garre\.gradle\jdks\adoptium-17-x64-hotspot-windows\bin\java.exe
+Arguments: '--inJar, C:\Users\garre\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.18.2-40.1.19\forge-1.18.2-40.1.19-injected.jar, --outJar, C:\Users\garre\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.18.2-40.1.19_mapped_official_1.18.2\forge-1.18.2-40.1.19_mapped_official_1.18.2.jar, --logFile, accesstransform.log, --atFile, C:\Users\garre\OneDrive - Arizona State University\Documents\GitHub\EggString\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\garre\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: C:\Users\garre\OneDrive - Arizona State University\Documents\GitHub\EggString\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
