@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "thederpgamer.eggstring.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "eggstring.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
