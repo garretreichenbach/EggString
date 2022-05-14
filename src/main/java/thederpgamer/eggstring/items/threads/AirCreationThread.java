@@ -1,6 +1,6 @@
-package thederpgamer.eggstring.items.eggs;
+package thederpgamer.eggstring.items.threads;
 
-import net.minecraft.world.item.EggItem;
+import net.minecraft.world.item.Item;
 import thederpgamer.eggstring.items.ItemManager;
 
 /**
@@ -9,9 +9,9 @@ import thederpgamer.eggstring.items.ItemManager;
  * @author Garret Reichenbach
  * @version 1.0 - [05/13/2022]
  */
-public class PrizeEggBase extends EggItem {
+public class AirCreationThread extends Item implements CreationThreadInterface {
 
-	public PrizeEggBase() {
+	public AirCreationThread() {
 		super(new Properties().tab(ItemManager.INVENTORY_TAB));
 	}
 }

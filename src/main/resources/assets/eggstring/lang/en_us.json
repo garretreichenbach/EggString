@@ -1,3 +1,15 @@
 {
-  "item.eggstring.prize_egg_base": "Prize Egg Base"
+  "item.eggstring.mod_icon": "Egg String",
+  "item.eggstring.prize_egg_common": "Prize Egg - Common",
+  "item.eggstring.prize_egg_rare": "Prize Egg - Rare",
+  "item.eggstring.prize_egg_legendary": "Prize Egg - Legendary",
+  "item.eggstring.small_world_egg": "World Egg - Small",
+  "item.eggstring.fire_creation_thread": "Burning Creation Thread",
+  "item.eggstring.water_creation_thread": "Wet Creation Thread",
+  "item.eggstring.earth_creation_thread": "Flowering Creation Thread",
+  "item.eggstring.arcane_creation_thread": "Mystic Creation Thread",
+  "item.eggstring.steel_creation_thread": "Mechanical Creation Thread",
+  "item.eggstring.air_creation_thread": "Levitating Creation Thread",
+  "item.eggstring.holy_creation_thread": "Radiant Creation Thread",
+  "messages.eggstring.invalid_item": "Sorry, but this item is invalid and cannot be used!"
 }

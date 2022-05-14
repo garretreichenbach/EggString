@@ -15,10 +15,10 @@ import thederpgamer.eggstring.items.ItemManager;
 
 import java.util.stream.Collectors;
 
-@Mod("EggString")
+@Mod("eggstring")
 public class EggString {
 
-	public static final String MODID = "EggString";
+	public static final String MODID = "eggstring";
 	private static final Logger LOGGER = LogManager.getLogger();
 
 	public EggString() {
@@ -36,6 +36,7 @@ public class EggString {
 	}
 
 	private void setup(final FMLCommonSetupEvent event) {
+
 	}
 
 	private void enqueueIMC(final InterModEnqueueEvent event) {

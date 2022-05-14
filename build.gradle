@@ -15,10 +15,10 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.spongepowered.mixin'
 
 group = 'thederpgamer'
-version = '0.0.1'
+version = '1.0.0'
 
 java {
-    archivesBaseName = 'EggString'
+    archivesBaseName = 'EggString-1.18.2'
     toolchain.languageVersion = JavaLanguageVersion.of(17)
 }
 
@@ -183,7 +183,7 @@ dependencies {
 
 // Example for how to get properties into the manifest for reading at runtime.
 jar {
-    destinationDir = file("C:/Users/garre/OneDrive - Arizona State University/Documents/Game Files/Minecraft Files/MultiMC/instances/Egg String/.minecraft/mods")
+    destinationDirectory = file("../../Game Files/Minecraft Files/MultiMC/instances/Egg String/.minecraft/mods")
     manifest {
         attributes([
                 "Specification-Title": "eggstring",
